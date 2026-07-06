@@ -6,6 +6,10 @@
 
 ## 🖼️ Galería de Obras
 
+### 🌲 Mi Lugar Favorito (Yosemite)
+![Yosemite](My_Favorite_Place.jpg)
+*Un paisaje inspirado en Yosemite que captura la majestuosidad de la naturaleza, los árboles y un sutil reflejo sobre el agua.*
+
 ### 🦁 El León y el Cordero
 ![El León y el Cordero](Lion_&_the_Lamb.jpg)
 *Una pieza profunda que juega con texturas fluidas y el contraste de expresiones entre la fuerza y la inocencia.*
@@ -20,6 +24,10 @@ Aquí comparto dos tiernas ilustraciones acompañadas de caligrafía y mensajes 
 | "Fearfully & Wonderfully Made" | "Love One An-Otter" |
 | :---: | :---: |
 | ![Nutria 2](Otter_2.jpg) | ![Nutria 1](Otter_1.jpg) |
+
+### 🎃 Bodegón de Calabaza y Flores
+![Calabaza](Pumpkin.jpeg)
+*Estudio de naturaleza muerta que contrasta tonos cálidos y vibrantes sobre un fondo profundo.*
 
 ### 🍎 Bodegón y Reflexiones de Luz
 ![Bodegón](Metal.jpg)
