@@ -7,7 +7,7 @@ Welcome to my creative space! Here, I share a collection of my handmade painting
 ## 🖼️ Artwork Gallery
 
 ### 🌲 My Favorite Place (Yosemite)
-![Yosemite](My_Favorite_Place.jpg)
+![Yosemite](My_Favorite_Place.jpeg)
 *A landscape piece inspired by Yosemite, capturing the majesty of nature, towering trees, and a subtle reflection on the water.*
 
 ### 🦁 The Lion and the Lamb
@@ -30,7 +30,7 @@ Here are two heartwarming illustrations featuring custom lettering and special m
 *A still life study contrasting warm, vibrant tones against a deep background.*
 
 ### 🍎 Still Life & Light Reflections
-![Still Life](Metal.jpg)
+![Still Life](Metal.jpeg)
 *A technical exercise studying color harmony, shadows, and metallic reflections on surfaces.*
 
 ---
