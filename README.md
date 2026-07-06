@@ -1,37 +1,37 @@
-# Mi Portafolio de Arte Tradicional 🎨✨
+# My Traditional Art Portfolio 🎨✨
 
-¡Bienvenido a mi espacio creativo! Aquí comparto una colección de mis pinturas hechas a mano utilizando la técnica de acuarela. Cada pieza refleja mi amor por la naturaleza, el color y el detalle.
+Welcome to my creative space! Here, I share a collection of my handmade paintings using watercolor techniques. Each piece reflects my love for nature, color, and rich detail.
 
 ---
 
-## 🖼️ Galería de Obras
+## 🖼️ Artwork Gallery
 
-### 🌲 Mi Lugar Favorito (Yosemite)
+### 🌲 My Favorite Place (Yosemite)
 ![Yosemite](My_Favorite_Place.jpg)
-*Un paisaje inspirado en Yosemite que captura la majestuosidad de la naturaleza, los árboles y un sutil reflejo sobre el agua.*
+*A landscape piece inspired by Yosemite, capturing the majesty of nature, towering trees, and a subtle reflection on the water.*
 
-### 🦁 El León y el Cordero
-![El León y el Cordero](Lion_&_the_Lamb.jpg)
-*Una pieza profunda que juega con texturas fluidas y el contraste de expresiones entre la fuerza y la inocencia.*
+### 🦁 The Lion and the Lamb
+![The Lion and the Lamb](Lion_&_the_Lamb.jpg)
+*A profound piece that plays with fluid textures and the contrast of expressions between strength and innocence.*
 
-### 🦜 Guacamayo en Vuelo
-![Guacamayo](Parrot.jpeg)
-*Explosión de colores vivos y dinámicos capturando la majestuosidad de un ave tropical en pleno vuelo.*
+### 🦜 Macaw in Flight
+![Macaw](Parrot.jpeg)
+*An explosion of vibrant, dynamic colors capturing the majesty of a tropical bird mid-flight.*
 
-### 🦦 Colección de Nutrias e Ilustración
-Aquí comparto dos tiernas ilustraciones acompañadas de caligrafía y mensajes especiales:
+### 🦦 Otter Collection & Illustration
+Here are two heartwarming illustrations featuring custom lettering and special messages:
 
 | "Fearfully & Wonderfully Made" | "Love One An-Otter" |
 | :---: | :---: |
-| ![Nutria 2](Otter_2.jpg) | ![Nutria 1](Otter_1.jpg) |
+| ![Otter 2](Otter_2.jpg) | ![Otter 1](Otter_1.jpg) |
 
-### 🎃 Bodegón de Calabaza y Flores
-![Calabaza](Pumpkin.jpeg)
-*Estudio de naturaleza muerta que contrasta tonos cálidos y vibrantes sobre un fondo profundo.*
+### 🎃 Pumpkin & Flowers Still Life
+![Pumpkin](Pumpkin.jpeg)
+*A still life study contrasting warm, vibrant tones against a deep background.*
 
-### 🍎 Bodegón y Reflexiones de Luz
-![Bodegón](Metal.jpg)
-*Un ejercicio técnico de estudio de color, sombras y reflejos metálicos sobre superficies.*
+### 🍎 Still Life & Light Reflections
+![Still Life](Metal.jpg)
+*A technical exercise studying color harmony, shadows, and metallic reflections on surfaces.*
 
 ---
-¡Gracias por visitar mi galería! Si te interesa mi trabajo o quieres conectar, siéntete libre de explorar mis proyectos.
+Thank you for visiting my gallery! If you are interested in my work or would like to connect, feel free to explore my projects.
